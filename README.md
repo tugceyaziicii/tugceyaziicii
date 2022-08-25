@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am statistics student at Yıldız Technical University.I want to be a data scientist and I'm working hard for it.I completed my summer internship at Denizbank.I am currently studying data science at Istanbul Data Science Academy.I know Python, R and SQL programming languages. I continue to improve myself in machine learning and data visualization.
+I am a student at Yıldız Technical University statistics department.I want to be a data scientist and I'm working hard for it.I completed my summer internship at Denizbank.I am currently studying data science at Istanbul Data Science Academy.I know Python, R and SQL programming languages. I continue to improve myself in machine learning and data visualization.
 
 - 🔭 I’m currently working on data science,machine learning projects.
 - 🌱 I’m currently learning data science
